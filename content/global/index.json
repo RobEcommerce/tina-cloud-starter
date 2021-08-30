@@ -33,6 +33,6 @@
     "color": "purple",
     "font": "sans",
     "icon": "boxicon",
-    "darkMode": "system"
+    "darkMode": "light"
   }
 }
