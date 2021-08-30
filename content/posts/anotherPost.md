@@ -1,9 +1,11 @@
 ---
-title: Just Another Blog Post
-author: content/authors/napoleon.md
-date: '2021-07-03T20:30:00.000Z'
-excerpt: "Lorem markdownum evinctus ut cape adhaeret gravis licet progenies ut haesit maxima ille. Est scorpius, mori vel in visaeque Haemoniis viperei furoris e ad vasti, distulit. Crudus sub coniuge iam: dea propera sive?"
-_template: article
+title: First Blog Post
+author: content/authors/pedro.md
+date: 'Mon, 30 Aug 2021 20:30:00 GMT'
+excerpt: >-
+  Regna tenus; dum qui sed; igni nisi mihi fluctibus, cum viridi rogabat haberet
+  tecto seducunt pares, omne. Dracone eventu, Zephyro, humum boum: huc, torvi
+  pericula cratera.
 ---
 
 Lorem markdownum evinctus _ut cape_ adhaeret gravis licet progenies ut haesit
