@@ -26,6 +26,14 @@ blocks:
     _template: hero
   - items:
       - icon:
+          color: ''
+          style: float
+          name: ''
+        title: Here's Another Feature
+        text: >-
+          This is where you might talk about the feature, if this wasn't just
+          filler text.
+      - icon:
           color: red
           style: float
           name: code
@@ -34,12 +42,6 @@ blocks:
           Aliquam blandit felis rhoncus, eleifend ipsum in, condimentum nibh.
           Praesent ac faucibus risus, eu lacinia enim.
       - icon:
-          color: primary
-          style: float
-          name: like
-        title: This Is a Feature
-        text: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices.
-      - icon:
           color: green
           style: float
           name: palette
@@ -47,7 +49,13 @@ blocks:
         text: >-
           Edit global theme configuration with Tina. Change your theme's primary
           color, font, or icon set.
-    color: tint
+      - icon:
+          color: yellow
+          style: float
+          name: like
+        title: This Is a Feature
+        text: New Features coming soon
+    color: default
     _template: features
 ---
 
