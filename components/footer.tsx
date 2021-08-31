@@ -62,21 +62,6 @@ export const Footer = ({ data, icon, rawData }) => {
             </a>
           </Link>
           <div className="flex gap-4">
-            {data.social && data.social.facebook && (
-              <a
-                className="inline-block opacity-80 hover:opacity-100 transition ease-out duration-150"
-                href={data.social.facebook}
-                target="_blank"
-              >
-                <FaFacebookF
-                  className={`${socialIconClasses} ${
-                    socialIconColorClasses[
-                      data.color === "primary" ? "primary" : theme.color
-                    ]
-                  }`}
-                />
-              </a>
-            )}
             {data.social && data.social.twitter && (
               <a
                 className="inline-block opacity-80 hover:opacity-100 transition ease-out duration-150"
